@@ -1,8 +1,9 @@
 /**
- * @fileoverview Bytes format library.
+ * @fileoverview Bytes formatter module from Glize library.
  *
  * @see https://google.github.io/styleguide/javascriptguide.xml
  * @see https://developers.google.com/closure/compiler/docs/js-for-compiler
+ * @see https://github.com/Datamart/Glize
  * @module bytes-formatter
  */
 
