@@ -1,13 +1,14 @@
 {
   "name": "bytes-formatter",
   "type": "module",
-  "version": "21.6.6",
+  "version": "21.6.7",
   "description": "Bytes formatter module from Glize library.",
   "homepage": "https://glize.js.org",
   "repository": "github:Datamart/bytes-formatter",
   "license": "Apache-2.0",
   "main": "./index.js",
   "exports": "./index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "node ./index.tests.js"
   },
