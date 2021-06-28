@@ -25,6 +25,8 @@
     "byte-formatter",
     "format-bytes",
     "formatBytes",
-    "glize"
+    "glize",
+    "filesize",
+    "pretty-bytes"
   ]
 }
