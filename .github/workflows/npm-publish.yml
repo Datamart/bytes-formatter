@@ -9,6 +9,7 @@ on:
     
 jobs:
   build:
+    if: github.repository == 'Datamart/bytes-formatter'
     runs-on: ubuntu-latest
 
     strategy:
